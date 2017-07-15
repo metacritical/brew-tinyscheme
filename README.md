@@ -4,5 +4,6 @@ Tinyscheme Brew Tap
 Install Tiny scheme using brew through this tap.
 
 ```sh
-$ brew tap metacritical/tinyscheme-tap
+$ brew tap metacritical/tap
+$ brew install tinyscheme
 ```
