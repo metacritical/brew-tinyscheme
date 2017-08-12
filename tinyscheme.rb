@@ -5,7 +5,7 @@ class Tinyscheme < Formula
   sha256 "c594c84633b1dcfe832e0416cbc9f889b6bae352845e14503883119a941a12fc"
 
   bottle do
-    revision 1
+    rebuild 1
     sha256 "fce84a2d2929ad1118015add67416e61b7d2911fbf99ab11c679aeebad6318f3" => :el_capitan
     sha256 "d23514b5d1f4c1f3360ce6773bcb2aff49986c013da608989a169149357966b4" => :yosemite
     sha256 "80d65369497ac62f490ec9818a11b8391db77382b924f67bbabc18f788fdf39e" => :mavericks
